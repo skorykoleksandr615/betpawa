@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://betpawa.cfd/sitemap.xml
+Sitemap: https://betpawa.cfd/sitemap_index.xml
